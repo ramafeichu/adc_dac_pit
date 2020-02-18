@@ -1,0 +1,7 @@
+fsl_adc16.h:360:20:ADC16_EnableHardwareTrigger	16	static
+fsl_adc16.h:484:24:ADC16_GetChannelConversionValue	16	static
+app_ADC.c:50:6:app_ADC_Init	24	static
+app_ADC.c:71:13:app_ADC_Trigger	16	static
+app_ADC.c:91:16:app_ADC_IsConversionCompleted	16	static
+app_ADC.c:117:16:app_ADC_GetValue	8	static
+app_ADC.c:127:9:app_ADC_Task	8	static

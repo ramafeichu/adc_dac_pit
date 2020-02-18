@@ -1,0 +1,8 @@
+fsl_gpio.h:175:20:GPIO_PortSet	16	static
+fsl_gpio.h:186:20:GPIO_PortClear	16	static
+app_BtnDbnc.c:46:6:app_BtnDbnc_Init	16	static
+app_BtnDbnc.c:61:6:app_BtnDbnc_TaskMngr	8	static
+app_BtnDbnc.c:73:13:app_BtnDbnc_CheckButtonsState	16	static
+app_BtnDbnc.c:94:13:app_BtnDbnc_IncreaseDbncCounter	16	static
+app_BtnDbnc.c:112:13:app_BtnDbnc_ClearDbncCounter	16	static
+app_BtnDbnc.c:124:13:app_BtnDbnc_Actions	16	static

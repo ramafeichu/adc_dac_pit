@@ -1,0 +1,12 @@
+core_cm4.h:1677:22:__NVIC_EnableIRQ	16	static
+fsl_clock.h:668:20:CLOCK_EnableClock	24	static
+fsl_common.h:419:28:EnableIRQ	16	static
+fsl_gpio.h:175:20:GPIO_PortSet	16	static
+fsl_gpio.h:186:20:GPIO_PortClear	16	static
+fsl_port.h:243:20:PORT_SetPinConfig	32	static
+fsl_port.h:415:20:PORT_SetPinInterruptConfig	24	static
+fsl_pit.h:286:20:PIT_StartTimer	16	static
+fsl_pit.h:300:20:PIT_StopTimer	16	static
+app_GPIO.c:18:6:app_GPIO_Init	24	static
+app_GPIO.c:74:6:PORTA_IRQHandler	8	static
+app_GPIO.c:97:6:PORTC_IRQHandler	8	static
